@@ -15,9 +15,9 @@ I love to explore new technologies and leverage them to solve real-life problems
 - 🛠 &nbsp; At the moment working with **Java, Microservices, System Design, Angular, Cypress.**
 - 👀 &nbsp; What I want to learn: **Kubernetes, Azure**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/anupbaranwal).
-- ✍️&nbsp; Follow me on my [blog](https://anupbaranwal.hashnode.dev/)
+- ✍️&nbsp; Follow me on my [blog](https://anupbaranwal.hashnode.dev/).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/anupbaranwal/anupbaranwal/issues/1)! I am happy to help.
-- 📫 &nbsp; How to reach me: [eranupbaranwal@gmail.com](mailto:eranupbaranwal@gmail.com)
+- 📫 &nbsp; How to reach me: [eranupbaranwal@gmail.com](mailto:eranupbaranwal@gmail.com).
 - 📝 &nbsp; Checkout my [Resume](https://github.com/anupbaranwal/anupbaranwal/blob/master/resume.pdf). (Haven't updated it in a while, but here you go)
 ### My Absolute Favorites:
 
