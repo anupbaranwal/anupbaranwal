@@ -1,34 +1,57 @@
-<p align="left">
-  <h1>Hi there, I'm Anup 👋</h1>
-  <h3>A passionate full stack developer from India <a href="https://twitter.com/anup_baranwal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anup_baranwal" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/anupbaranwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupbaranwal" height="30" width="40" /></a></h3>
-  <br>
+## Hey 👋, I'm [Anup Baranwal!](https://twitter.com/anup_baranwal) and you've reached my Dev space on the WWW :)
 
-  - 🔭 I’m currently working on [Hexagonal Application Generator](https://github.com/devs-from-matrix/app-generator)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupbaranwal)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anup_baranwal)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://anupbaranwal.hashnode.dev/)
 
-  - 🌱 I’m currently learning **React, Docker & Kubernetes, Data Structure & Algorithms**
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=anupbaranwal.anupbaranwal&style=flat-square&color=0088cc)
 
-  - 👨‍💻 All of my projects are available at [https://github.com/anupbaranwal](https://github.com/anupbaranwal)
+Currently, working at [Societe Generale](https://www.societegenerale.com/en). I am a technical enthusiast with 10+ years of Experience on Full Stack technologies like Java, Spring boot, Angular, React, Python, Flutter etc.
+Always willing to learn and work across technologies and domains 💡. 
+I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
-  - 💬 Ask me about **Angular, Spring, Microservices, Java**
+### Talking about Personal Stuff:
 
-  - 📫 How to reach me **eranupbaranwal@gmail.com**
+- 🛠 &nbsp; At the moment working with **Java, Microservices, System Design, Angular, Cypress.**
+- 👀 &nbsp; What I want to learn: **Kubernetes, Azure**
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/anupbaranwal).
+- ✍️&nbsp; Follow me on my [blog](https://anupbaranwal.hashnode.dev/)
+- 💬 &nbsp; Ask me about anything [here](https://github.com/anupbaranwal/anupbaranwal/issues/1)! I am happy to help.
+- 📫 &nbsp; How to reach me: [eranupbaranwal@gmail.com](mailto:eranupbaranwal@gmail.com)
+- 📝 &nbsp; Checkout my [Resume](https://github.com/anupbaranwal/anupbaranwal/blob/master/resume.pdf). (Haven't updated it in a while, but here you go)
+### My Absolute Favorites:
 
-  - 📄 Know about my experiences [https://anupbaranwal.lovestoblog.com/](https://anupbaranwal.lovestoblog.com/)
+- 💻 &nbsp; I love to explore new tech.
+- 📰 &nbsp; Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
+- ⚡ &nbsp; Fun fact: I love to play chess and love to cook during my leisure :p
 
-  - ⚡ Fun fact **I like cooking**
-  </p>
+### Languages and Tools:
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+<a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
+<a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 
-</br>
+### Projects and Dev Stuff:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<summary><b>⚡ Github Stats</b></summary>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupbaranwal&show_icons=true&hide_border=true&locale=en&layout=compact" alt="anupbaranwal" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupbaranwal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anupbaranwal&show_icons=true&locale=en&layout=compact" alt="anupbaranwal" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Anup Baranwal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anupbaranwal&hide=[%22prs%22,%22issues%22]&show_icons=true" /></p>
+<summary><b>☄️Github Streaks</b></summary>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anupbaranwal&hide_border=true" />
 
-<p align="center">
-  <a href="https://app.daily.dev/anupbaranwal"><img src="https://api.daily.dev/devcards/de908357d46144e184c4aa1f0a5d2a6f.png?r=2fl" width="400" alt="Anup Kumar's Dev Card"/></a>
-</p>
+### Latest posts of [@anupbaranwal](https://github.com/anupbaranwal) 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
