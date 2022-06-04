@@ -54,4 +54,6 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 ### Latest posts of [@anupbaranwal](https://github.com/anupbaranwal) 
 <!-- BLOG-POST-LIST:START -->
+- [Mutation Testing: Make your tests bulletproof - 2](https://anupbaranwal.hashnode.dev/mutation-testing-make-your-tests-bulletproof-2)
+- [Mutation Testing: Make your tests bulletproof - 1](https://anupbaranwal.hashnode.dev/mutation-testing-make-your-tests-bulletproof-1)
 <!-- BLOG-POST-LIST:END -->
