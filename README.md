@@ -18,7 +18,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 - ✍️&nbsp; Follow me on my [blog](https://anupbaranwal.hashnode.dev/).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/anupbaranwal/anupbaranwal/issues/1)! I am happy to help.
 - 📫 &nbsp; How to reach me: [eranupbaranwal@gmail.com](mailto:eranupbaranwal@gmail.com).
-- 📝 &nbsp; Checkout my [Resume](https://github.com/anupbaranwal/anupbaranwal/blob/master/resume.pdf). (Haven't updated it in a while, but here you go)
+- 📝 &nbsp; Checkout my [Resume](https://github.com/anupbaranwal/anupbaranwal/blob/main/resume.pdf). (Haven't updated it in a while, but here you go)
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love to explore new tech.
@@ -45,11 +45,11 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 ### Projects and Dev Stuff:
 
-<summary><b>⚡ Github Stats</b></summary>
+#### ⚡ Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupbaranwal&show_icons=true&hide_border=true&locale=en&layout=compact" alt="anupbaranwal" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupbaranwal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupbaranwal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&layout=compact" />
 
-<summary><b>☄️Github Streaks</b></summary>
+#### ☄️Github Streaks
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anupbaranwal&hide_border=true" />
 
 ### Latest posts of [@anupbaranwal](https://github.com/anupbaranwal) 
